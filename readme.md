@@ -11,6 +11,7 @@
 7. fulfill the task until 2 tests pass
 8. if you know multiple ways to do the same task, feel free to try them all. This will make you a better developer!
 9. check the suggested solution against yours
+10. Some suggested solutions contain the "Check yourself" section with questions you should be able to answer 
 
 ## Notes
 - try maintaining balance between code clarity and the number of lines of code
