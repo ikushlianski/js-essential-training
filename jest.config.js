@@ -4,7 +4,7 @@ module.exports = {
   },
   testEnvironment: 'node',
   testMatch: [
-    '<rootDir>/**/*.test.(js|jsx|ts|tsx)'
+    '<rootDir>/**/*.test.(js|jsx|ts|tsx)',
   ],
   transformIgnorePatterns: ['<rootDir>/node_modules/']
 };
