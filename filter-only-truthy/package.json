@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "",
-  "main": "task-1.js",
+  "main": "task.js",
   "scripts": {
     "test": "jest --watchAll"
   },
