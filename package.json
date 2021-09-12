@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"ERROR: Your are not inside any task directory. Please cd into any task directory to launch tests for that particular task\" && exit 1"
   },
   "keywords": [],
   "author": "",
