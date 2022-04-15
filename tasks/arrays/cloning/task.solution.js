@@ -2,7 +2,7 @@
 /**
  * Check yourself:
  *
- *
+ * Is it true that `agesCloned1 === ages`? Why do you think so?
  */
 
 export const ages = [3, 2, 9, 10]
