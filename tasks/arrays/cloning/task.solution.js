@@ -1,4 +1,3 @@
-
 /**
  * Check yourself:
  *
@@ -12,9 +11,9 @@ export const agesCloned1 = ages.slice()
 
 // todo clone using reduce
 export const agesCloned2 = ages.reduce((acc, cur) => {
-  acc.push(cur)
+    acc.push(cur)
 
-  return acc
+    return acc
 }, [])
 
 // todo clone the array without using array methods like slice or reduce
